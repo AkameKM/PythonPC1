@@ -6,8 +6,4 @@ Resultado esperado: ['Verde', 'Blanco', 'Negro']
 
 """
 
-lista_cor = ['Rojo', 'Verde', 'Blanco', 'Negro', 'Rosa', 'Amarillo']
-del lista_cor[5]
-del lista_cor[4]
-del lista_cor[0]
-print(lista_cor)
+################################# PROBLEMA 9 #######################################
